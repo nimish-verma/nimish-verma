@@ -23,7 +23,7 @@ Web Developer, interested in ML & Neural Networks
 ---------------------------------------------------
 
 * ✉️  You can contact me at [vnimish20@gmail.com](mailto:vnimish20@gmail.com)
-* 🧠  I'm learning Angular and node.js
+* 🧠  I'm learning React and node.js
 * 🤝  I'm open to collaborating on React Projects
 
 ### Skills
