@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, interested in ML & Neural Networks
 ---------------------------------------------------
 
-* ✉️  You can contact me at [vnimish20@gmail.com](mailto:vnimish20@gmail.com)
+* ✉️  You can contact me at [nimishvwork@gmail.com](mailto:vnimish20@gmail.com)
 * 🧠  currently learning node.js
 * 🤝  I'm open to collaborating on React Projects
 
