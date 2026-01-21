@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <table border="0">
   <tr>
     <td width="40%">
@@ -54,4 +53,40 @@ Here are some ideas to get you started:
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> 
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+---
+
+### Socials
+
+<p align="left"> 
+  <a href="https://www.github.com/_nimish_verma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nimtruly/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/nimtruly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitter.com/_nimish_verma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@nimhere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+</p>
+
+---
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/_nimish_verma"><img src="https://github-readme-stats.vercel.app/api?username=_nimish_verma&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=14b8a6&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="nimish-verma's GitHub stats" /></a>
+
+<a href="http://www.github.com/_nimish_verma"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=_nimish_verma&bg_color=0f172a&color=14b8a6&line=ec4899&point=14b8a6&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/_nimish_verma" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=_nimish_verma&langs_count=10&title_color=a855f7&text_color=14b8a6&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/thenimish"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
