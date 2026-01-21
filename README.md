@@ -16,19 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-<table border="0">
-  <tr>
-    <td width="40%">
-      <img src="https://media.tenor.com/xWxLptH92UoAAAAi/ali-graham-lil-ye.gif" width="100%" alt="Lil Ye GIF">
-    </td>
-    <td valign="middle">
-      <h1>Hi, nim this side 👋</h1>
-      <h2>Sup?</h2>
-    </td>
-  </tr>
-</table>
 
-====================================================================================================================================
+
+<img align="left" width="180" src="https://media.tenor.com/xWxLptH92UoAAAAi/ali-graham-lil-ye.gif" alt="Lil Ye GIF" />
+
+# Hi, nim this side 👋
+
+### Sup?
+
+<br clear="left"/>
+
+---
 
 ### Creative Director | Video Editor | Developer
 
@@ -66,32 +64,14 @@ Here are some ideas to get you started:
 ### Socials
 
 <p align="left"> 
-  <a href="https://www.github.com/_nimish_verma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/nimish-verma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nimtruly/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/nimtruly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.twitter.com/_nimish_verma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@nimhere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/nimtruly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@nimtruly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
 ---
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=_nimish_verma&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="nimish-verma's Stats" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=_nimish_verma&theme=merko&hide_border=false" alt="nimish-verma's Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=_nimish_verma&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="nimish-verma's Top Languages" />
-
-</div>
-
-<br/>
 
 ### Support Me
 
