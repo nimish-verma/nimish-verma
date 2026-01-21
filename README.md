@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<table border="0">
+  <tr>
+    <td width="200">
+      <img src="https://media.tenor.com/xWxLptH92UoAAAAi/ali-graham-lil-ye.gif" width="100%" alt="Lil Ye GIF">
+    </td>
+    <td valign="middle">
+      <h1 style="margin-bottom: 0;">Hi, nim this side 👋</h1>
+      <h3 style="margin-top: 10px;">Sup?</h3>
+    </td>
+  </tr>
+</table>
 
-
-
-<img align="left" width="180" src="https://media.tenor.com/xWxLptH92UoAAAAi/ali-graham-lil-ye.gif" alt="Lil Ye GIF" />
-
-# Hi, nim this side 👋
-
-### Sup?
-
-<br clear="left"/>
-
----
+====================================================================================================================================
 
 ### Creative Director | Video Editor | Developer
 
@@ -64,10 +65,10 @@ Here are some ideas to get you started:
 ### Socials
 
 <p align="left"> 
-  <a href="https://www.github.com/nimish-verma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nimtruly/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/nimtruly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.twitter.com/nimtruly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/nimish-verma" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/555555" width="32" height="32" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nimtruly/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/nimtruly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitter.com/nimtruly" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/x/555555" width="32" height="32" alt="X (Twitter)" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@nimtruly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
